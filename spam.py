@@ -3,10 +3,10 @@ from telethon.tl.functions.messages import SendMessageRequest
 import time
 
 # Konfigurasi
-api_id = 1234567  # Dapatkan dari my.telegram.org
-api_hash = 'abcdef1234567890abcdef1234567890'  # Dapatkan dari my.telegram.org
-phone_number = '+6281234567890'  # Nomor Telegram Anda
-target_username = 'username_penipu'  # Ganti dengan username/ID penipu
+api_id = 24851732  # Dapatkan dari my.telegram.org
+api_hash = '7b910a141e9d0a997ca07b208bfd8621'  # Dapatkan dari my.telegram.org
+phone_number = '+6285966576582'  # Nomor Telegram Anda
+target_username = 'novanathaliaa'  # Ganti dengan username/ID penipu
 message = "⚠ WARNING! SCAMMER ALERT! ⚠\nOrang ini adalah penipu, jangan percaya!"  # Pesan spam
 jumlah_pesan = 100  # Jumlah pesan yang dikirim
 delay = 2  # Jeda antar pesan (detik)
